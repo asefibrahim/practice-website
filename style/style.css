@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* header */
+.header-class {
+    margin: 0 300px;
+    background-image: url(images/donation7.jpg);
+    height: 650px;
+}
+
+.header-title {
+    text-align: center;
+    color: white;
+    font-weight: 800;
+    font-size: 50px;
+
+    padding-top: 150px;
+}
+
+.header-description {
+    margin-top: 50px;
+    text-align: center;
+    padding: 0 300px;
+    color: white;
+
+
+}
+
+.btn-primary {
+    height: 64px;
+    border-radius: 5px;
+    background: #fD6E0A;
+    border: 0;
+    padding: 18px 35px;
+
+
+
+}
+
+.btn {
+    padding-left: 450px;
+    margin-top: 100px;
+}
+
+/* donation */
+.donation {
+    width: 1120px;
+    margin-left: 300px;
+}
+
+.section-title {
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 600;
+    font-size: 40px;
+    margin-right: 50px;
+
+
+}
+
+.section-description {
+    margin-top: 50px;
+    text-align: center;
+    padding: 0 300px;
+    color: #757575;
+    margin-right: 50px;
+
+}
+
+table tr td {
+
+    padding: 25px 20px;
+    border: 0px solid gray;
+    background-color: aliceblue;
+
+
+
+}
+
+.table {
+    margin-left: 300px;
+    margin-top: 50px;
+    border-spacing: 14px;
+}
+
+.section-description-less {
+    text-align: center;
+    color: #757575;
+    margin-right: 80px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.btn-primar {
+    margin-left: 450px;
+
+    height: 64px;
+    border-radius: 5px;
+    background: #fD6E0A;
+    border: 0;
+    padding: 18px 35px;
+    margin-top: 20px;
+
+}
+
+table .red-design {
+    border: 3px solid orange;
+}
+
+/* our donattion part */
+.sec-title {
+    text-align: center;
+    font-size: 38px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+
+}
+
+.title-d {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #757575;
+
+}
+
+img {
+    width: 100px;
+}
+
+.donate-plan {
+    margin: 0 300px;
+
+}
+
+.for-flex {
+    display: flex;
+}
+
+.bg-1 {
+    background-color: rgb(209, 225, 239);
+    padding: 20px;
+    margin-right: 20px;
+    box-shadow: 10px;
+}
+
+.bg-2 {
+    background-color: antiquewhite;
+    padding: 20px;
+    margin-right: 20px;
+    box-shadow: 20px;
+
+}
+
+.bg-3 {
+    background-color: rgb(185, 215, 215);
+    padding: 20px;
+    margin-right: px;
+    box-shadow: 20px;
+
+
+}
+
+.a-title {
+    margin: 15px 0;
+}
+
+.b-title {
+    margin: 15px 0;
+}
+
+
+.c-title {
+    margin: 15px 0;
+}
