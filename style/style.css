@@ -34,6 +34,8 @@
     background: #fD6E0A;
     border: 0;
     padding: 18px 35px;
+    color: aliceblue;
+    font-size: 20px;
 
 
 
@@ -102,6 +104,8 @@ table tr td {
     border: 0;
     padding: 18px 35px;
     margin-top: 20px;
+    color: aliceblue;
+    font-size: 20px;
 
 }
 
@@ -174,3 +178,104 @@ img {
 .c-title {
     margin: 15px 0;
 }
+
+/* Donation comoplete */
+.flexx {
+    margin: 0 300px;
+    display: flex;
+    margin-top: 200px;
+}
+
+.depend {
+    font-size: 38px;
+    margin-bottom: 60px;
+    width: 400px;
+}
+
+.depend-des {
+    width: 600px;
+    margin-bottom: 60px;
+}
+
+.img2 img {
+    width: 450px;
+    height: 400px;
+}
+
+.bt-primary {
+    /* margin-left: 100px; */
+
+    height: 64px;
+    border-radius: 5px;
+    background: #fD6E0A;
+    border: 0;
+    padding: 18px 35px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.flexx-2 {
+    margin: 0 300px;
+    display: flex;
+    margin-top: 200px;
+
+}
+
+.depend-2 {
+    font-size: 38px;
+    margin-bottom: 60px;
+    width: 400px;
+    margin-left: 40px;
+}
+
+.depend-des-2 {
+    width: 600px;
+    margin-bottom: 60px;
+    margin-left: 40px;
+}
+
+.bt-primary-2 {
+    height: 64px;
+    border-radius: 5px;
+    background: #fD6E0A;
+    border: 0;
+    padding: 18px 30px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: aliceblue;
+    margin-left: 40px;
+}
+
+.last {
+    margin: 0 500px;
+    background-color: antiquewhite;
+
+}
+
+.last-1 {
+    margin-top: 30px;
+    padding: ;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 38px;
+
+}
+
+.last-des-1 {
+    color: #757575;
+    margin-left: 20px;
+
+}
+
+.yo input {
+    eight: 64px;
+    border-radius: 5px;
+    background: grey;
+    border: 0;
+    padding: 18px 30px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: aliceblue;
+    background-color: grey;
+    margin-left: 250px;
