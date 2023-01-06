@@ -248,8 +248,7 @@ img {
 }
 
 .last {
-    margin: 0 500px;
-    background-color: antiquewhite;
+    margin: 0 300px;
 
 }
 
@@ -265,17 +264,23 @@ img {
 .last-des-1 {
     color: #757575;
     margin-left: 20px;
+    color: aliceblue;
 
 }
 
 .yo input {
     eight: 64px;
     border-radius: 5px;
-    background: grey;
+    background: rgb(195, 207, 21);
     border: 0;
     padding: 18px 30px;
     margin-top: 20px;
     font-size: 20px;
     color: aliceblue;
-    background-color: grey;
-    margin-left: 250px;
+    background-color: rgb(206, 15, 15);
+    margin-left: 450px;
+}
+
+.ultimate {
+    background-color: #757575;
+}
